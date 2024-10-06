@@ -1,4 +1,12 @@
 export default {
+	head: (
+		<>
+			<title>SNH48 Glossary</title>
+			<meta name='viewport' content='width=device-width, initial-scale=1.0' />
+			<meta property='og:title' content='SNh48 Glossary' />
+			<meta property='og:description' content='Compiling SNH48 content' />
+		</>
+	),
 	logo: (
 		<>
 			<svg
