@@ -1,16 +1,17 @@
 {
-  "name": "snh48-glossary",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
-  "dependencies": {
-    "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.14"
-  }
+	"name": "snh48-glossary",
+	"version": "0.1.0",
+	"private": true,
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build",
+		"start": "next start"
+	},
+	"dependencies": {
+		"next": "14.2.14",
+		"nextra": "^3.0.3",
+		"nextra-theme-docs": "^3.0.3",
+		"react": "^18",
+		"react-dom": "^18"
+	}
 }
