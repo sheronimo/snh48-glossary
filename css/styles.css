@@ -1,8 +1,10 @@
-h2 {
+h2,
+h3 {
 	position: relative;
 }
 
-h2 a.subheading-anchor {
+h2 a.subheading-anchor,
+h3 a.subheading-anchor {
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -14,13 +16,15 @@ h2 a.subheading-anchor {
 	z-index: 1;
 }
 
-h2:hover {
+h2:hover,
+h3:hover {
 	color: hsl(
 		var(--nextra-primary-hue) var(--nextra-primary-saturation) 45% / 1
 	) !important;
 }
 
-h2 a.subheading-anchor::after {
+h2 a.subheading-anchor::after,
+h3 a.subheading-anchor::after {
 	position: absolute;
 	right: 0;
 }

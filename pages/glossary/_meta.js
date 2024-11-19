@@ -1,9 +1,20 @@
 export default {
-	special_characters: 'Special Characters/Symbols/Emoji',
-	a: 'A',
-	d: 'D',
-	e_f: 'E - F',
-	o: 'O',
-	u_v: 'U - V',
-	z: 'Z'
+	glossary_special_characters: 'Special Characters/Symbols/Emoji',
+	glossary_a: 'A',
+	glossary_b: 'B',
+	glossary_c: 'C',
+	glossary_d: 'D',
+	glossary_e_f: 'E - F',
+	glossary_g: 'G',
+	glossary_h_i: 'H - I',
+	glossary_j_k: 'J - K',
+	glossary_l: 'L',
+	glossary_m_n: 'M - N',
+	glossary_o_p: 'O - P',
+	glossary_q_r: 'Q - R',
+	glossary_s: 'S',
+	glossary_t: 'T',
+	glossary_u_v: 'U - V',
+	glossary_w_x: 'W - X',
+	glossary_y_z: 'Y - Z'
 }
